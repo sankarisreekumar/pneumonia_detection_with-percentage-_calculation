@@ -1,4 +1,5 @@
 Pneumonia Detection & Percentage of Infection using VGG16 + Segmentation + Grad-CAM
+
 This project detects Pneumonia from Chest X-Ray images and additionally calculates the percentage of lung infection.
 It combines classification, segmentation, and explainability techniques to provide a more interpretable medical AI workflow.
 
